@@ -1,2 +1,4 @@
 # LaserCut53-Patch
-patch lasercut53 to not need dongle
+Patch lasercut53.exe to not need dongle
+
+For saving and loading support only. Anything else is untested and maybe broken
